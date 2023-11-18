@@ -64,6 +64,9 @@ This CNN architecture incorporates convolutional, max-pooling, dropout, and dens
 The network showcases high efficiency, achieving a remarkable accuracy rate with minimal loss. The plotted accuracy, loss, and confusion matrix affirm its robustness in deciphering handwritten digits accurately.
 
 ### Running the Flask App
+
+***Before executing the Flask app, ensure all dependencies are installed and configured appropriately***.
+
 To launch the Flask app:
 1. Set the App Name:
    ```bash
@@ -76,6 +79,6 @@ To launch the Flask app:
    flask run
    ```
 
-Before executing the Flask app, ensure all dependencies are installed and configured appropriately.
+
 
 ---
